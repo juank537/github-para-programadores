@@ -1,6 +1,6 @@
-# Bienvenido al curso de GutHub para desarrolladores
+# Bienvenido al curso de GitHub para desarrolladores
 
-github para desarrolladores
+GitHub para desarrolladores
 
 [Visita mi página](https://github.com/juank537/)
 
